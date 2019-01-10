@@ -1,0 +1,26 @@
+.filmList {
+    margin-top: 95px;
+}
+
+.rating {
+    font-size: 32px;
+    padding-left: 110px;
+}
+
+
+@media screen and (max-width:700px) {
+    h5 {
+        font-size: 13px;
+    }
+    .filmList {
+        margin-top: 200px;
+    }
+}
+
+.searching{
+    background: -webkit-linear-gradient(1deg,rgb(2, 138, 115),rgb(192, 149, 6));
+}
+
+.adder{
+    background: -webkit-linear-gradient(1deg,rgb(2, 138, 115),rgb(192, 149, 6));
+}
